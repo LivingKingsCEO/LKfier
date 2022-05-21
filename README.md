@@ -1,4 +1,4 @@
-# Nativefier
+# LKfier
 
 ![Example of Nativefier app in the macOS dock](.github/dock-screenshot.png)
 
